@@ -1,0 +1,16 @@
+{
+    "dummyprofile": "cypress/fixtures/files/dummyprofile.jpg",
+    "dummyprofile2": "cypress/fixtures/files/images.png",
+    "textFile": "cypress/fixtures/files/text.txt",
+    
+    "_Comment area":"Now project data",
+
+    "projectNameData":["Health" ,"Communication"],
+
+    "default_category":["Example Category"],
+    "new_category":["Excercise"],
+    "default_items":["Example Action Item 1", "Example Action Item 2", "Example Action Item 3"],
+    "new_items":["Walking"]
+
+
+}    
